@@ -1,9 +1,0 @@
-id,symbol,side,inst_type,quantity,price,leverage,action
-201,ETHUSDT,BUY,FUTURES,15.0,3500.0,10,submit
-202,ETHUSDT,SELL,FUTURES,15.0,3600.0,10,submit_before_fill
-203,ETHUSDT,BUY,FUTURES,15.0,3500.0,10,fill_order_201
-204,ETHUSDT,SELL,FUTURES,15.0,3600.0,10,submit_after_fill
-301,BTCUSDT,BUY,OPTIONS,2.0,70000.0,5,submit
-302,BTCUSDT,SELL,OPTIONS,2.0,71000.0,5,submit_before_fill
-303,BTCUSDT,BUY,OPTIONS,2.0,70000.0,5,fill_order_301
-304,BTCUSDT,SELL,OPTIONS,2.0,71000.0,5,submit_after_fill
