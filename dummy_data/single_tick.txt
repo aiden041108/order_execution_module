@@ -1,0 +1,2 @@
+symbol,side,type,quantity,limit_price
+BTC,BUY,MARKET,100,0
